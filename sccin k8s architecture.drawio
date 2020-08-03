@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-03T07:39:36.837Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="lzpKFnysNKRpE7LtKHUR" version="13.5.7" type="github">
+<mxfile host="www.draw.io" modified="2020-08-03T07:43:03.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36" etag="nQrOh3Ua82GuSuFuXj5T" version="13.5.7" type="github">
   <diagram id="P1mq1N7akYFhdibZ3TWp" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="DYGcpya1Go8vzDIOZUxl-150" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253.5" y="838" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DYGcpya1Go8vzDIOZUxl-151" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="DYGcpya1Go8vzDIOZUxl-151" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="209.5" y="798" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYGcpya1Go8vzDIOZUxl-152" value="controller-manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
