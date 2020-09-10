@@ -1,1 +1,87 @@
-<mxfile host="www.draw.io" modified="2020-09-10T01:40:19.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.6.0" etag="oSjVengoZFeRRy2W7a_N" type="github"><diagram id="RZIWth5-AEKNoKlBBVwz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-09-10T05:56:54.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="80YL8-jDxGEV3zhjN4Q0" version="13.6.0" type="github">
+  <diagram id="RZIWth5-AEKNoKlBBVwz" name="Page-1">
+    <mxGraphModel dx="948" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262" y="269" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-1" value="运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-2" value="SQL语句审查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-3" value="部门领导审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="300" width="46" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-4" value="公司领导审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="301" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-5" value="DataBase" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-10" value="SQL审核平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=24;notch=15;feather=0.4;" vertex="1" parent="1">
+          <mxGeometry x="180" y="335" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=24;notch=15;feather=0.4;" vertex="1" parent="1">
+          <mxGeometry x="520" y="335" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-22" value="运维领导" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="600" width="28" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-23" value="运维人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="772" width="28" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rRcAy9Q9pUgymcmaSMGn-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="717" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="287" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRcAy9Q9pUgymcmaSMGn-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="625" as="sourcePoint" />
+            <mxPoint x="541" y="775" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="717" />
+              <mxPoint x="541" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rRcAy9Q9pUgymcmaSMGn-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-25" value="管理账号SA" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="363" y="611" width="100" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-26" value="业务账号bus1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="775" width="98" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-28" value="业务账号bus1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="777" width="107" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-29" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_server" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="765.5" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-30" value="业务服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="823.5" width="72" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-36" value="授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="705" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rRcAy9Q9pUgymcmaSMGn-41" value="授权" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="329" y="706" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
