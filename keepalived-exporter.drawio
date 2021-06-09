@@ -1,32 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T08:32:34.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="puBvGlk9S0kIMVpzuUia" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-09T09:59:42.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="y9RWHVlyTxFwDtGSY4Zn" version="14.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-79" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="910" width="257.75" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="870" width="460" height="350" as="geometry" />
+          <mxGeometry x="979" y="940" width="361" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="870" width="460" height="350" as="geometry" />
+          <mxGeometry x="490" y="910" width="400" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-4" value="&lt;pre&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;keepalivedCollector&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-size: 12pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="750" width="210" height="50" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-4" value="&lt;pre&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;keepalivedCollector&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(43 , 43 , 43) ; color: rgb(169 , 183 , 198) ; font-size: 12pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/pre&gt;" style="html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="970" width="195.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-5" target="RVAC2XV0_P0tuHo6thdl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-5" value="func (k *KeepalivedCollector) Collect(ch chan&amp;lt;- prometheus.Metric)&amp;nbsp;" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="940" width="390" height="40" as="geometry" />
+          <mxGeometry x="505" y="970" width="365" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-7" value="collector" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="870" width="120" height="30" as="geometry" />
+          <mxGeometry x="620" y="920" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-8" target="RVAC2XV0_P0tuHo6thdl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-8" value="func (k *KeepalivedCollector) getKeepalivedStats() (*KeepalivedStats, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1048" width="440" height="40" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-8" target="RVAC2XV0_P0tuHo6thdl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-8" value="func (k *KeepalivedCollector) getKeepalivedStats() &lt;br&gt;(*KeepalivedStats, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1048" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-10" target="RVAC2XV0_P0tuHo6thdl-14">
           <mxGeometry relative="1" as="geometry" />
@@ -35,43 +41,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-10" value="func (k *KeepalivedHostCollectorHost) StatsVrrps() (map[string]*collector.VRRPStats, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1046" width="310" height="44" as="geometry" />
+          <mxGeometry x="993" y="1046" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-14" value="func (k *KeepalivedHostCollectorHost) signal(signal os.Signal) error" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="1130" width="380" height="60" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-14" value="func (k *KeepalivedHostCollectorHost) signal(signal os.Signal) &lt;br&gt;error" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="992" y="1130" width="338" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-16" value="host" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="757" y="890" width="70" height="30" as="geometry" />
+          <mxGeometry x="1124.5" y="950" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-17" value="向keepalived进程发送信号，&lt;br&gt;以获取keepalived信息数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="1140" width="170" height="30" as="geometry" />
+          <mxGeometry x="1160" y="1100" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-19" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="1070" width="20" height="20" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-20" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="998" y="1149" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-20" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="1170" width="20" height="20" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-21" value="func ParseStats(i io.Reader) &lt;br&gt;(map[string]*VRRPStats, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="691" y="1130" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-21" value="func ParseStats(i io.Reader) (map[string]*VRRPStats, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="59" y="1140" width="396" height="50" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-22" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="1149" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-22" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="1170" width="20" height="20" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-27" value="func (k *KeepalivedHostCollectorHost) DataVrrps() (map[string]*collector.VRRPData, error)同StatsVrrps" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="992" y="985" width="313" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-24" value="将keepalived数据解析至字典中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="488" y="1155" width="180" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-26" value="将instance及其数据解析至字典中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="1060" width="190" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-27" value="func (k *KeepalivedHostCollectorHost) DataVrrps() (map[string]*collector.VRRPData, error)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="950" width="313" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-28" value="与StatsVrrps函数类似" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="970" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="RVAC2XV0_P0tuHo6thdl-29" value="数据的变化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="1300" width="80" height="20" as="geometry" />
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-29" value="采集动作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="425" y="1063" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-30" target="RVAC2XV0_P0tuHo6thdl-35">
           <mxGeometry relative="1" as="geometry" />
@@ -140,6 +134,9 @@
         <mxCell id="RVAC2XV0_P0tuHo6thdl-59" value="进一步封装，统一抽象，从keepalived层面要考虑检测脚本与VRRP本身两方面，便于生成指标" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="1350" width="140" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-61" target="RVAC2XV0_P0tuHo6thdl-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-61" value="&lt;div&gt;type constMetric struct {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; desc&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;*Desc&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; valType&amp;nbsp; &amp;nbsp; ValueType&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; val&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; float64&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; labelPairs []*dto.LabelPair&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1140" y="1545" width="180" height="100" as="geometry" />
         </mxCell>
@@ -162,6 +159,39 @@
         </mxCell>
         <mxCell id="RVAC2XV0_P0tuHo6thdl-72" value="将统一好结构的数据&lt;br&gt;用于prometheus client库生成指标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="1605" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-73" value="生成http请求所看到的页面" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=12;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1380" y="1565" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-76" value="抽象数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="908" y="1055" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-78" value="获取解析数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885" y="1100" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-80" value="CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="262.75" y="920" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-81" target="RVAC2XV0_P0tuHo6thdl-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-81" value="KeepalivedHostCollectorHost" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;align=left;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="207.75" y="1005" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-82" target="RVAC2XV0_P0tuHo6thdl-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-82" value="MustRegister(keepalivedCollector)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200.5" y="1078" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-84" value="注册Collector至prometheus client库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1045" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RVAC2XV0_P0tuHo6thdl-85" target="RVAC2XV0_P0tuHo6thdl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RVAC2XV0_P0tuHo6thdl-85" value="http.Handle(*metricsPath, promhttp.Handler())" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;fontSize=12;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197.75" y="1133" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
