@@ -1,1 +1,133 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T09:53:23.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.7" etag="KziQoqXYa2sccLjQcECh" type="github"><diagram id="oZvrUA4AIRPvX7jO5bjR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T10:36:10.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="y2ptGHDHY1F8K_M-2-Ye" version="14.7.7" type="github">
+  <diagram id="oZvrUA4AIRPvX7jO5bjR" name="Page-1">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wh2sE931mQzBKbUOHptG-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162" y="60" width="276" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-2" target="Wh2sE931mQzBKbUOHptG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.714;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-2" target="Wh2sE931mQzBKbUOHptG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-2" value="傻瓜交换机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-3" target="Wh2sE931mQzBKbUOHptG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-3" value="server1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="460" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-5" value="bridge" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="284" y="440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-6" value="vlan1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-7" value="vlan1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-8" target="Wh2sE931mQzBKbUOHptG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-8" value="server-swith" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-10" value="vlan6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-11" target="Wh2sE931mQzBKbUOHptG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-11" value="核心交换机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-13" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-14" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-15" value="防火墙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-17" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-18" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-19" value="vlan6&lt;br&gt;网关地址192.168.6.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-20" target="Wh2sE931mQzBKbUOHptG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-20" value="办公网交换机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-22" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-23" value="trunk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Wh2sE931mQzBKbUOHptG-24" target="Wh2sE931mQzBKbUOHptG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-24" value="办公电脑&lt;br&gt;192.168.0.5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-26" value="vlan10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-27" value="vlan10&lt;br&gt;网关地址192.168.0.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-28" value="其中路由肯定没问题" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-29" value="这种情况下，办公电脑192.1368.0.5访问到192.168.6.110这个虚拟机是没问题的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="290" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-30" value="虚拟机192.168.6.110" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-31" value="新增虚拟机192.168.1.251" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="560" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-32" value="vlan20&lt;br&gt;网关地址192.168.1.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="840" y="150" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-33" value="骚操作：&lt;br&gt;在server1物理机里面再分配一个虚拟机，网段为192.168.1.251，网关为192.168.1.1，防火墙上设置好了网关和vlan，trunk是全放行的。&lt;br&gt;&lt;br&gt;问题：&lt;br&gt;现在我电脑192.168.0.5如何在不影响访问到.6网段的情况下，能够访问1.251这台服务器？" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="250" width="200" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-35" value="vlan20" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-37" value="目前验证结果：&lt;br&gt;&lt;br&gt;从傻瓜交换机新增一条网线&lt;br&gt;到server-swith的vlan20上，此时如果拔掉旁边vlan6这条网线，此时办公电脑可以访问到192.168.1.251了，但是就没办法访问192.168.6.110了。如果两条网线同时插上，那就是只能访问6.110的虚拟机，没办法访问1.251的虚拟机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="700" y="420" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-38" value="vlan1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-41" value="第一阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="730" y="283" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-42" value="第二阶段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="950" y="253" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-43" value="第三阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="745" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Wh2sE931mQzBKbUOHptG-45" value="感觉现在问题出在这一坨，就是傻瓜交换机不知道回给客户端的包去往1.1网关该往vlan6走还是vlan20走？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="70" width="215" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
